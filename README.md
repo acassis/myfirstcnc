@@ -1,5 +1,7 @@
 # myfirstcnc
-MyFirstCNC is an aluminum profile CNC
+MyFirstCNC is an aluminum profile CNC:
+
+![Alt text](/myfirstcnc.png?raw=true "MyFirstCNC")
 
 This CNC was designed using FreeCAD program:
 
